@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://revenican.github.io/sitemap
+Sitemap: https://revenican.github.io/app/sitemap
+Sitemap: https://revenican.github.io/assets/sitemap
+Sitemap: https://revenican.github.io/css/sitemap
+Sitemap: https://revenican.github.io/includes/sitemap
+Sitemap: https://revenican.github.io/item/sitemap
+Sitemap: https://revenican.github.io/src/sitemap
